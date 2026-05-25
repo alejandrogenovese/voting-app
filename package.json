@@ -1,0 +1,16 @@
+{
+  "name": "arqdata-voting",
+  "version": "1.0.0",
+  "description": "ArqData — Priorización de iniciativas por el equipo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

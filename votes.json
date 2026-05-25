@@ -1,0 +1,20 @@
+{
+  "votes": {
+    "Leonardo Carvallo": {
+      "query-doctor": {
+        "ia": true,
+        "cc": true
+      }
+    }
+  },
+  "weights": {
+    "ia": 3,
+    "cc": 3,
+    "da": 2,
+    "rm": 2,
+    "pm": 2,
+    "idp": 4,
+    "ex": 3,
+    "cx": 2
+  }
+}
